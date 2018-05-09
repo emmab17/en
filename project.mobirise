@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page15.html",
+    "currentPage": "index.html",
     "versionFirst": "3.7.3",
     "versionPublish": "4.4.1",
     "name": "My Site en",
@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "uniqCompNum": 169,
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "robotsText": "User-agent: *\nDisallow: /assets\n\n",
     "robotsSwitcher": "on",
     "cookiesAlert": "",
