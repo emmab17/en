@@ -1,14 +1,14 @@
 {
   "settings": {
-    "currentPage": "page12.html",
+    "currentPage": "index.html",
     "versionFirst": "3.7.3",
     "versionPublish": "4.4.1",
-    "name": "My Site en or",
+    "name": "My Site EN or",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#000000",
         "secondaryColor": "#ffffff",
         "successColor": "#90a878",
         "infoColor": "#b8312f",
@@ -33,7 +33,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 169,
+    "uniqCompNum": 171,
     "favicon": "",
     "noImageResize": "true",
     "robotsText": "User-agent: *\nDisallow: /assets\n\n",
@@ -71,7 +71,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) Emma Boeyaert"
         },
         {
           "_inherit": "header1",
@@ -122,27 +122,6 @@
           ],
           "_name": "header5",
           "_anchor": "header5-7"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text1": "<p>An explanation of everything Emma already accomplished! ... waaaaw.</p>",
-          "text2": "<p>.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-g",
-          "_styles": {
-            "P": {
-              "color": "#1d3519",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
         },
         {
           "_params": {
@@ -349,7 +328,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -393,7 +372,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-i"
         },
         {
@@ -409,9 +388,9 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
           "text1": "<strong>Address</strong><br>Spiegelhofstraat 32<br>9000 Gent<br><br><br>\n<strong>Contacts</strong><br>\nEmail: emmaboeyaert@hotmail.com<br>\nPhone: +32471 13 00 99<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://www.instagram.com/emmappemma/\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Instagram: emmappemma</li><li>Facebook: Emma Boeyaert</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "emmaboeyaert@hotmail.com",
@@ -457,213 +436,19 @@
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-dsc4703-1400x950.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">2014-2015</span>",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-15",
-          "_styles": {
-            "H3": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            "P": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            "SPAN": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#0e0e0e",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_anchor": "footer1-l"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#202020",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Slabo 27px",
-              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "css": "'Slabo 27px', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">2014-2015</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">2015-2016</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">2016-2017</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">2017-2018</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-family": "'Slabo 27px', serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#060606"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#181818!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#202020"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-m"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#202020"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\" style=\"font-weight: bold;\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-u",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
-        },
-        {
-          "_params": {
             "showImages": false,
             "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#0e0e0e",
+            "bgColor": "#212121",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -749,24 +534,15 @@
           ],
           "_name": "features3",
           "_anchor": "features3-2l"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "2015-2016",
-        "order": 15
-      },
-      "components": [
+        },
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "48",
-            "paddingTop": "4",
+            "imageSize": 50,
+            "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -785,7 +561,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-dsc4709-1400x929.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-dsc4703-1400x950.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -802,20 +578,24 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">2015-2016</span>",
+          "title": "<span style=\"font-weight: normal;\">2014-2015</span>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-z",
+          "_anchor": "msg-box5-15",
           "_styles": {
-            "SPAN": {
+            "H3": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "SPAN": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
@@ -835,8 +615,8 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_anchor": "footer1-n"
+          "text": "Copyright (c) Emma Boeyaert",
+          "_anchor": "footer1-l"
         },
         {
           "_inherit": "menu",
@@ -908,7 +688,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -927,7 +707,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-o"
+          "_anchor": "ext_menu-m"
         },
         {
           "_params": {
@@ -935,20 +715,32 @@
             "paddingBottom": 1,
             "bgColor": "#202020"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">ava</a><a href=\"http://google.com/\">ilable</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "At the age of 17, Emma Boeyaert was in her last year of secundary school, studying &nbsp;Visual Arts. In this year, the perpose for students is to graduate with a GIP (Integrated Test). The theme of this final project was India. Apart from this project, students made drawings and paintings to observation, and sculptures to fantasy.",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-y",
+          "_anchor": "content1-u",
           "_styles": {
             "P": {
               "color": "#ffffff",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           }
-        },
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "2015-2016",
+        "order": 15
+      },
+      "components": [
         {
           "_params": {
             "showImages": false,
@@ -956,14 +748,14 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#0e0e0e",
+            "bgColor": "#212121",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1049,16 +841,69 @@
           ],
           "_name": "features3",
           "_anchor": "features3-2m"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Web Site Generator Description",
-        "title": "2016-2017",
-        "order": 14
-      },
-      "components": [
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "48",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-dsc4709-1400x929.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">2015-2016</span>",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-z",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
+        },
         {
           "_name": "footer1",
           "_params": {
@@ -1073,8 +918,8 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_anchor": "footer1-p"
+          "text": "Copyright (c) Emma Boeyaert",
+          "_anchor": "footer1-n"
         },
         {
           "_inherit": "menu",
@@ -1146,7 +991,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -1165,69 +1010,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-q"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3965-1400x2069.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">2016-2017</span>",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-11",
-          "_styles": {
-            "H3": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            "P": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
+          "_anchor": "ext_menu-o"
         },
         {
           "_params": {
@@ -1235,20 +1018,29 @@
             "paddingBottom": 1,
             "bgColor": "#202020"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">ava</a><a href=\"http://google.com/\">ilable</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop<b> </b>app.</p>",
+          "text": "<p>In september 2015, Emma Boeyaert started her education at Luca School of Arts, following Drawing &amp; Graphics/Illustration under supervision of Isabelle Vandenabeele, Steve Michiels and Peter Morrens. Assignments were given as open to both directions as possible, with the perpose to choose what the students wanted to follow after that first year. The content of drawings was finally free to choose, and the focus was no longer on techniques. All attention went to strong images now.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-12",
+          "_anchor": "content1-y",
           "_styles": {
             "P": {
+              "color": "#ffffff",
               "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "color": "#ffffff"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
-        },
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "2016-2017",
+        "order": 14
+      },
+      "components": [
         {
           "_params": {
             "showImages": false,
@@ -1256,14 +1048,14 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#0e0e0e",
+            "bgColor": "#212121",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1349,16 +1141,7 @@
           ],
           "_name": "features3",
           "_anchor": "features3-2n"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Web Creator Description",
-        "title": "2017-2018",
-        "order": 13
-      },
-      "components": [
+        },
         {
           "_name": "footer1",
           "_params": {
@@ -1373,8 +1156,8 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_anchor": "footer1-r"
+          "text": "Copyright (c) Emma Boeyaert",
+          "_anchor": "footer1-p"
         },
         {
           "_inherit": "menu",
@@ -1446,7 +1229,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -1465,15 +1248,15 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-s"
+          "_anchor": "ext_menu-q"
         },
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "46",
+            "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -1493,7 +1276,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-dsc4580-1400x929.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-dsc3965-1400x2069.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1510,14 +1293,14 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">2017-2018</span>",
+          "title": "<span style=\"font-weight: normal;\">2016-2017</span>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-13",
+          "_anchor": "msg-box5-11",
           "_styles": {
             "H3": {
               "font-family": "'Slabo 27px', serif",
@@ -1535,12 +1318,12 @@
             "paddingBottom": 1,
             "bgColor": "#202020"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>Illustration was what Emma chose to do in the second academic year. Eager to tell stories, and eager to draw, this seemed to be the best choice. Many assignments had to lead Emma and the other students to discovering how they individually wanted to tell people something, and what they wanted to tell. For Emma, this year wasn't wasted at all, but it was not the right place to find these things out. Not succeeding, she stept over to Drawing &amp; Graphics, in the second year again for 2017-2018.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-14",
+          "_anchor": "content1-12",
           "_styles": {
             "P": {
               "font-family": "'Slabo 27px', serif",
@@ -1548,7 +1331,16 @@
               "color": "#ffffff"
             }
           }
-        },
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "2017-2018",
+        "order": 13
+      },
+      "components": [
         {
           "_params": {
             "showImages": false,
@@ -1556,14 +1348,14 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#0e0e0e",
+            "bgColor": "#212121",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1649,16 +1441,7 @@
           ],
           "_name": "features3",
           "_anchor": "features3-2i"
-        }
-      ]
-    },
-    "page6.html": {
-      "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "2014-2015 GIP",
-        "order": 12
-      },
-      "components": [
+        },
         {
           "_name": "footer1",
           "_params": {
@@ -1673,7 +1456,224 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
+          "_anchor": "footer1-r"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#202020",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">2014-2015</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">2015-2016</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">2016-2017</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">2017-2018</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#060606"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#181818!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#202020"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "46",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-dsc4580-1400x929.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">2017-2018</span>",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-13",
+          "_styles": {
+            "H3": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#202020"
+          },
+          "text": "<p>The third year at the school, now in Drawing &amp; Graphics, Emma Boeyaert had a difficult start. For four months, she barely drew. Even though Illustration was not her ideal field of study, she was used to work on assignments. Drawing &amp; Graphics is a different sort of education. Professors don't &nbsp;come up with any assignment, so Emma had to make up for herself what she wanted to do. The intermediate jury in february was approaching, so in a shock of panic, Emma started painting with oilpaint quickly. Suddenly normal images surprised her. Taking pictures of everything that awakened a certain interest, she grew a small archive. This became the first database from where she built images to paint to.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14",
+          "_styles": {
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "2014-2015 GIP",
+        "order": 12
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#212121"
+          },
+          "text": "<p>'India' was a big concept to work with, so Emma Boeyaert chose to dig into the inequality in the Indian education. Clear is that girls have less rights than boys to go to school, and that children on the countryside have less rights than children who live in the cities. Intrigued by these facts, Emma 'investigated' statistics and tried to convert them into visual works. One artwork had to be 3D, one 2D.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2y",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0e0e0e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-1d"
         },
         {
@@ -1784,7 +1784,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "'Inequality in the Indian Education'. 3 dimentional curve. Clay stands for climbing out of mud, paper stands for schoolbooks and an education. Left: Boys in the cities, middle-left: girls in the cities. Middle-right: boys on the countryside, right: girls on the countryside.",
           "_tags": [
             "Theme"
           ],
@@ -1792,26 +1792,8 @@
           "_anchor": "image1-2s",
           "_styles": {
             "DIV": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#0e0e0e"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#0e0e0e"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2y",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
             }
           }
         },
@@ -1832,16 +1814,21 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Sketches preparing for a work about illiteracy in India, Test in ecoustic-technique: melted beewax with pigment.&nbsp;",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-2t"
+          "_anchor": "image1-2t",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -1865,7 +1852,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -1880,7 +1867,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -1966,7 +1953,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-1i"
         },
         {
@@ -2066,7 +2053,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote>It was recommended in secundary school to sculpt in different matters, so that students are introduced to some sorts. The deer is built in clay, with an overlay of shoe polish. The wooden sculpture &nbsp;is inspired by a wing.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2080,7 +2067,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2104,7 +2091,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2149,7 +2136,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-1k"
         },
         {
@@ -2222,7 +2209,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -2249,7 +2236,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote>First year at Luca School of Arts, the focus on technique immediately disappeared. In 'Illustration/ Drawing &amp; Graphics', the field of study Emma chose, the attention went to lots of sketching and observing.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2278,12 +2265,18 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "View on the Steenstraat in Bruges. Ink on paper.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-42"
+          "_anchor": "image1-42",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
@@ -2302,12 +2295,18 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "One of the drawings for the assignment 'Hands'. Gouache on paper",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-45"
+          "_anchor": "image1-45",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -2326,12 +2325,18 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Self-portrait as a doll.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-44"
+          "_anchor": "image1-44",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -2350,16 +2355,22 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Quick sketches to stills of the film 'Du Levande'",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-3a"
+          "_anchor": "image1-3a",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2383,7 +2394,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2422,16 +2433,22 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Warming up- sketches to posing classmates.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-3e"
+          "_anchor": "image1-3e",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2455,7 +2472,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2479,7 +2496,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2524,7 +2541,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-1m"
         },
         {
@@ -2597,7 +2614,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -2624,7 +2641,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote>A part of the field of study contains manual printing techniques. In bigger assignments like 'Self Portrait' or 'Hands', Emma had workshops about etching, Chine collé, woodcut, etc.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2638,7 +2655,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2662,7 +2679,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2686,7 +2703,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -2707,6 +2724,30 @@
           ],
           "_name": "image1",
           "_anchor": "image1-3m"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc4713.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-4p"
         }
       ]
     },
@@ -2731,7 +2772,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-1q"
         },
         {
@@ -2831,7 +2872,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote>In the second year, Emma followed Illustration in Luca School of Arts, with Gerda Dendooven and Isabelle Vandenabeele. This year contained lots of assignments wherein stories had to become images, and images needed to tell a story. It was not clear until the end of that year that Emma wasn't in the right place in Illustration. In the last few weeks before the jury in june 2017, Gerda told her to let go of the assignments and to make whatever she felt like making. &nbsp;This is how the small series 'Fear' grew.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2971,7 +3012,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "One of the assignments was about fear, but letting go of its structure, Emma painted small anxious portraits and self-portraits. &nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -2980,7 +3021,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3004,7 +3045,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3028,7 +3069,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3052,7 +3093,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3076,7 +3117,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3100,7 +3141,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3124,7 +3165,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3169,7 +3210,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-1s"
         },
         {
@@ -3242,7 +3283,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -3269,7 +3310,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote>Through this year, following the Illustration field, Emma didn't work a lot. Being stuck between assignments and doing what she wanted to do, only a few things arised.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -3328,27 +3369,6 @@
           ],
           "_name": "image1",
           "_anchor": "image1-40"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-43"
         }
       ]
     },
@@ -3373,7 +3393,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-1x"
         },
         {
@@ -3446,7 +3466,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -3613,12 +3633,18 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Stillife of onions in mech. Timed on 20 minutes.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-48"
+          "_anchor": "image1-48",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -3637,12 +3663,18 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Peeled clementine. Timed on 20 minutes.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-49"
+          "_anchor": "image1-49",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
@@ -3661,12 +3693,18 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "'Riddle'. On curved wood.&nbsp;",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-4a"
+          "_anchor": "image1-4a",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -3685,12 +3723,18 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "'Mask'. On curved wood.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-4b"
+          "_anchor": "image1-4b",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -3709,16 +3753,22 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "'Blind Marie'",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-4c"
+          "_anchor": "image1-4c",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3742,7 +3792,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3781,16 +3831,22 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Elian",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-4e"
+          "_anchor": "image1-4e",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -3835,7 +3891,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-1z"
         },
         {
@@ -3935,7 +3991,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p><br></p><p>The sketchbook in the third year looked different from the one of the year before. Sketches were sometimes less fragile, and became overwelming now and then. These opposites also tell something of the evolution from being stuck and shy, to daring and experimenting.&nbsp;</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -3964,16 +4020,22 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Short memory of the sight of Overpoort at night.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-4j"
+          "_anchor": "image1-4j",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -4005,6 +4067,24 @@
       },
       "components": [
         {
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#212121"
+          },
+          "text": "<blockquote>It is important to see pictures you take as finished works on themselves. Sometimes, a painting of a good picture is not automatically a better version of the picture. These pictures better stay independent, according to Emma.&nbsp;</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4q",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
           "_name": "footer1",
           "_params": {
             "paddingTop": 2,
@@ -4018,7 +4098,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-21"
         },
         {
@@ -4091,7 +4171,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -4114,7 +4194,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -4138,7 +4218,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -4162,7 +4242,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -4207,7 +4287,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-2j"
         },
         {
@@ -4280,7 +4360,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -4303,7 +4383,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -4348,7 +4428,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) Emma Boeyaert",
           "_anchor": "footer1-2o"
         },
         {
@@ -4448,7 +4528,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote>There was no choise in what Emma painted or drew. The secunary education didn't have much room for free thinking. That is why these works are focused on technique.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -4462,7 +4542,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -4486,7 +4566,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -4501,7 +4581,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "_tags": [
             "Theme"
           ],
