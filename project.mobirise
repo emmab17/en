@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "3.7.3",
     "versionPublish": "4.4.1",
-    "name": "My Site en",
+    "name": "My Site nl-clone",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -311,7 +311,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc4819.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc4740-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -320,7 +320,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#7c9aa7",
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
@@ -1933,7 +1933,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#95b9c9!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -2654,13 +2654,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#95b9c9"
+              "color": "#7c9aa7"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#95b9c9"
+              "background-color": "#7c9aa7"
             },
             ".link, .dropdown-item": {
-              "color": "#95b9c9",
+              "color": "#7c9aa7",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-family": "'Slabo 27px', serif"
             },
@@ -2683,7 +2683,7 @@
               "background": "#1c1e23"
             },
             ".bg-color.transparent .link": {
-              "color": "#95b9c9",
+              "color": "#7c9aa7",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2693,7 +2693,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#95b9c9!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -4870,7 +4870,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#95b9c9!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
