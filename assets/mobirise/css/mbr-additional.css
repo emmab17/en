@@ -945,7 +945,7 @@ h6,
 }
 #ext_menu-1j .link[aria-expanded="true"],
 #ext_menu-1j .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-33 BLOCKQUOTE {
   color: #95b9c9;
@@ -1090,15 +1090,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1r .navbar-toggler {
-  color: #7c9aa7;
+  color: #95b9c9;
 }
 #ext_menu-1r .close-icon::before,
 #ext_menu-1r .close-icon::after {
-  background-color: #7c9aa7;
+  background-color: #95b9c9;
 }
 #ext_menu-1r .link,
 #ext_menu-1r .dropdown-item {
-  color: #7c9aa7;
+  color: #95b9c9;
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-1r .link {
@@ -1131,7 +1131,7 @@ h6,
   background: #1c1e23;
 }
 #ext_menu-1r .bg-color.transparent .link {
-  color: #7c9aa7;
+  color: #95b9c9;
   transition: none;
 }
 #ext_menu-1r .bg-color.transparent.opened .link {
@@ -1143,7 +1143,7 @@ h6,
 }
 #ext_menu-1r .link[aria-expanded="true"],
 #ext_menu-1r .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-3n BLOCKQUOTE {
   color: #95b9c9;
@@ -1539,7 +1539,7 @@ h6,
 }
 #ext_menu-2p .link[aria-expanded="true"],
 #ext_menu-2p .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-36 BLOCKQUOTE {
   color: #95b9c9;
